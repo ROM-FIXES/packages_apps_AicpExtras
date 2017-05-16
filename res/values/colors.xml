@@ -18,6 +18,7 @@
 
     <!-- Gesture Anywhere -->
     <color name="ga_gesture_color">@android:color/holo_blue_light</color>
+    <color name="white">#fff</color>
 
     <!-- Switch Bar Text Color -->
     <color name="switchbar_text_color">#ffffffff</color>
@@ -32,4 +33,5 @@
     <!-- DSLV colors -->
     <color name="dslv_icon_dark">#ff009688</color>
     <color name="dslv_float_cackground_color">#ff616161</color>
+
 </resources>
